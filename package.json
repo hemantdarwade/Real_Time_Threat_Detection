@@ -1,0 +1,14 @@
+{
+	"name" : "Threat_Detection",
+	"version": "1.0.0",
+	"scripts" : { 
+		"start":"node server.js"
+	},
+
+	"dependencies":{
+		"formidable" :""
+		
+	} ,
+	"author" : "Hemant Darwade",
+	"License" : "ISC"
+}
